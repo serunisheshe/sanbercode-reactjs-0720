@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+}
+
+span {
+    display: inline;
+}
+
+input {
+    position: relative;
+    left: 50px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+#radiobutton {
+    left: 0px;
+}
+
+textarea {
+    position: relative;
+    left: 60px;
+    margin-top: 20px;
+}
+
+button {
+    margin-top: 20px;
+}
